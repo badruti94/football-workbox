@@ -1,0 +1,14 @@
+#preloading{
+    margin-top: 20em;
+    margin-bottom: 20em;
+    margin-left: 45%;
+}
+
+.black-background{
+    background-color: rgb(0, 0, 0, 0.75);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
